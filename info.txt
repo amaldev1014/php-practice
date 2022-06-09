@@ -1,0 +1,4 @@
+Database: listings.db3
+Table: listings
+
+Select records where cat_id = a244 and remove is NULL.
